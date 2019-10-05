@@ -21,6 +21,8 @@ Brief introduction to AI/ML concepts and use-cases.
 
 Introducing Oracle products for Machine Learning and their respective capabilities and architectures.
 
+- [Lab: Intro to Python] (another-page.md)
+
 - Lab: Intro to Oracle Machine Learning for Python
 
 Introduction to the lab environment and setting up the student desktop/laptop for connecting to the lab virtual machine. The student will learn to use OML4Py to connect to the Oracle Database and move data between Python and the database. The lab also covers data exploration and manipulation of data using OML4Py’s transparency layer, that allows the use of common python Pandas DataFrame functions on data residing in the Oracle database.
